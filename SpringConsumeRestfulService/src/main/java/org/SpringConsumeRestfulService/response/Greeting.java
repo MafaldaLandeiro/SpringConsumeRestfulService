@@ -9,6 +9,13 @@ public class Greeting {
 	private String content;
 
 	/**
+	 * 
+	 */
+	public Greeting() {
+		super();
+	}
+
+	/**
 	 * @param date
 	 * @param content
 	 */
